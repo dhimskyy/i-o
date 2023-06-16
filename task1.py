@@ -1,0 +1,13 @@
+nama = input("Nama: ")
+ttl = input("Tempat _Tanggal_Lahir: ")
+almt = input("Alamat")
+nhp = input("No._Hp")
+pd = input("Program_Studi")
+hobi = input("Hobi")
+
+print("Nama Lengkap: " + nama)
+print("Tempat Tanggal Lahir: " + ttl)
+print("Alamat: " + almt)
+print("No. Hp: " + nhp)
+print("Program Studi: " + pd)
+print("Hobi: " + hobi)
